@@ -1,0 +1,6 @@
+{
+  "name": "TFI Burial Society",
+  "description": "A modern, professional, mobile-friendly funeral policy website for TFI Burial Society.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
